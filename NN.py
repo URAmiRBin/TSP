@@ -1,7 +1,6 @@
 from Graphics import *
 from Path import *
 import timeit
-import matplotlib.pyplot as plt
 
 
 def nearest_neighbour(num_of_points, points):
